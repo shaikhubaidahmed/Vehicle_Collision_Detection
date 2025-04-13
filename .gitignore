@@ -1,0 +1,13 @@
+weights/
+videos/
+*.pt
+*.mp4
+*.mov
+*.npy
+*.mp4
+*.mp3
+*.pyc
+**/*.ipynb
+**__pycache__**
+**/*.pyc
+outputs/
